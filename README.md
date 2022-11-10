@@ -24,6 +24,7 @@ the interface has a slight animation with the labels.
 ## Interface de login 🩻
 
 Pagina inicial: 
+
 ![Login](https://i.imgur.com/ctgF7TS.gif)
 
 Ele captura o User/E-mail e Senha aparti de um JSON.
@@ -31,6 +32,7 @@ Ele captura o User/E-mail e Senha aparti de um JSON.
 It captures the User/Email and Password from a JSON.
 
 ## SigIn 🔬
+
 
 ![SigIN](https://i.imgur.com/juopLIL.gif)
 
